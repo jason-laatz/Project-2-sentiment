@@ -60,52 +60,19 @@ This is intentionally interpretable and easy to explain in your video.
 
 These files are included so you can submit a repo that already has required documentation artifacts.
 
-## Suggested Demo Flow (8-12 Minutes)
 
-1. Explain problem: sentiment varies by source and time; need context, not one static score.
-2. Enter one ticker and show live headline retrieval.
-3. Explain sentiment method (VADER) and what positive/negative means.
-4. Change time window (7 -> 30 -> 90 days) and interpret trend changes.
-5. Change source filter/weights and show how weighted signal changes.
-6. Walk through reliability score logic and limitations.
-7. Explain practical use: sentiment as a confirmation/risk-monitoring signal, not standalone advice.
-
-## Limitations (Mention in Video)
+## Limitations
 
 - News-only sentiment can miss context from earnings calls/filings/social channels.
 - Headline sentiment may not reflect full article nuance.
 - Source reliability scoring is heuristic, not a ground-truth credibility model.
 - Sentiment should be combined with fundamentals, valuation, and risk analysis.
 
-## AI Usage Disclosure Template
-
-Use in your report/video:
+## AI Usage Disclosure
 
 - AI tools used: Cursor + LLM assistant
 - Tasks AI assisted with: code scaffolding, UI structuring, refactoring, documentation drafting
 - What you validated independently: ticker retrieval behavior, score interpretation, filter behavior, chart correctness
 
-## Create and Push GitHub Repository
 
-From the `project2_sentiment_analyzer` folder:
-
-```bash
-git init
-git add .
-git commit -m "Build Path B sentiment analyzer app with documentation"
-```
-
-Then create a GitHub repo and push:
-
-```bash
-gh repo create mgmt490-project2-sentiment --public --source . --remote origin --push
-```
-
-If you do not use GitHub CLI, create the empty repo on GitHub.com and then run:
-
-```bash
-git branch -M main
-git remote add origin https://github.com/<your-username>/mgmt490-project2-sentiment.git
-git push -u origin main
-```
 
