@@ -1,0 +1,171 @@
+[
+  {
+    "ticker": "AAPL",
+    "published_at": "2026-04-05T13:10:00Z",
+    "title": "Apple supplier checks suggest steady iPhone demand into spring",
+    "summary": "Channel checks from suppliers indicated stable iPhone demand trends, easing concerns about a sharp seasonal slowdown.",
+    "source": "Reuters"
+  },
+  {
+    "ticker": "AAPL",
+    "published_at": "2026-04-02T15:40:00Z",
+    "title": "Apple reportedly expands AI features in next software preview",
+    "summary": "Reports suggest Apple is preparing additional on-device AI features in upcoming software updates for iPhone and Mac.",
+    "source": "Wall Street Journal"
+  },
+  {
+    "ticker": "AAPL",
+    "published_at": "2026-03-25T14:30:00Z",
+    "title": "Apple shares rise as analysts highlight AI services opportunity",
+    "summary": "Several Wall Street analysts raised their price targets on Apple, citing upside from integrating on-device AI across the iPhone and Mac ecosystem.",
+    "source": "Reuters"
+  },
+  {
+    "ticker": "AAPL",
+    "published_at": "2026-03-20T09:00:00Z",
+    "title": "Report: Apple faces regulatory pressure in Europe over App Store fees",
+    "summary": "EU regulators advanced a case focused on mobile app distribution practices, raising headline risk for Apple in the region.",
+    "source": "Financial Times"
+  },
+  {
+    "ticker": "AAPL",
+    "published_at": "2026-03-03T12:00:00Z",
+    "title": "Apple buyback discussion supports downside cushion view",
+    "summary": "Strategists noted Apple's capital return profile could provide support during broad market volatility episodes.",
+    "source": "MarketWatch"
+  },
+  {
+    "ticker": "AAPL",
+    "published_at": "2026-02-14T10:20:00Z",
+    "title": "Developers watch Apple App Store policy updates after EU feedback",
+    "summary": "Developers and analysts monitored possible policy changes that could affect service economics in Europe.",
+    "source": "Bloomberg"
+  },
+  {
+    "ticker": "MSFT",
+    "published_at": "2026-04-04T17:20:00Z",
+    "title": "Microsoft enterprise bookings improve as AI copilots scale",
+    "summary": "Large enterprise contracts reflected stronger copilot adoption, reinforcing software demand resilience.",
+    "source": "Reuters"
+  },
+  {
+    "ticker": "MSFT",
+    "published_at": "2026-03-31T09:50:00Z",
+    "title": "Microsoft adds new security controls for AI assistants",
+    "summary": "The company announced additional governance controls for AI tools, aiming to accelerate regulated-industry adoption.",
+    "source": "CNBC"
+  },
+  {
+    "ticker": "MSFT",
+    "published_at": "2026-03-24T16:15:00Z",
+    "title": "Microsoft Cloud growth accelerates on AI demand",
+    "summary": "Azure revenue growth re-accelerated as enterprise customers expand spending on AI infrastructure and copilots.",
+    "source": "Wall Street Journal"
+  },
+  {
+    "ticker": "MSFT",
+    "published_at": "2026-03-18T11:45:00Z",
+    "title": "Microsoft warns of higher capex as AI build-out continues",
+    "summary": "Management guided to elevated capital expenditures to support AI data center investments, which may pressure near-term free cash flow.",
+    "source": "Bloomberg"
+  },
+  {
+    "ticker": "MSFT",
+    "published_at": "2026-03-01T14:05:00Z",
+    "title": "Analysts lift Microsoft estimates on cloud margin stability",
+    "summary": "Research notes pointed to improving cloud efficiency and durable software renewal demand.",
+    "source": "Financial Times"
+  },
+  {
+    "ticker": "MSFT",
+    "published_at": "2026-02-08T08:30:00Z",
+    "title": "Microsoft cloud contracts remain robust despite macro caution",
+    "summary": "Partners reported stable cloud pipeline activity even as some corporate budgets remained tight.",
+    "source": "Yahoo Finance"
+  },
+  {
+    "ticker": "NVDA",
+    "published_at": "2026-04-05T11:35:00Z",
+    "title": "Nvidia partners highlight continued AI accelerator demand",
+    "summary": "Ecosystem partners cited sustained demand for AI accelerators, though lead times remained extended.",
+    "source": "Reuters"
+  },
+  {
+    "ticker": "NVDA",
+    "published_at": "2026-04-01T13:25:00Z",
+    "title": "Nvidia supply chain update points to gradual bottleneck relief",
+    "summary": "Industry checks suggested some supply constraints may ease in selected product lines over coming quarters.",
+    "source": "Bloomberg"
+  },
+  {
+    "ticker": "NVDA",
+    "published_at": "2026-03-26T13:00:00Z",
+    "title": "Nvidia extends rally after another strong data center quarter",
+    "summary": "Nvidia beat expectations on data center GPU demand, but management acknowledged supply constraints into the second half of the year.",
+    "source": "CNBC"
+  },
+  {
+    "ticker": "NVDA",
+    "published_at": "2026-03-19T10:30:00Z",
+    "title": "Analysts debate sustainability of Nvidia margins",
+    "summary": "Some analysts questioned whether current gross margins are sustainable as competition intensifies and AI pricing normalizes.",
+    "source": "MarketWatch"
+  },
+  {
+    "ticker": "NVDA",
+    "published_at": "2026-03-02T09:40:00Z",
+    "title": "Chip export policy discussion resurfaces for advanced AI hardware",
+    "summary": "Policy headlines around advanced chip exports reintroduced uncertainty around regional demand assumptions.",
+    "source": "Financial Times"
+  },
+  {
+    "ticker": "NVDA",
+    "published_at": "2026-02-11T15:10:00Z",
+    "title": "Nvidia software ecosystem expansion seen as competitive moat",
+    "summary": "Analysts argued software tooling and developer lock-in may support long-term platform durability.",
+    "source": "Wall Street Journal"
+  },
+  {
+    "ticker": "TSLA",
+    "published_at": "2026-04-04T10:10:00Z",
+    "title": "Tesla delivery preview points to mixed regional trends",
+    "summary": "Preliminary checks suggested stronger U.S. demand but softer momentum in parts of Europe.",
+    "source": "Reuters"
+  },
+  {
+    "ticker": "TSLA",
+    "published_at": "2026-03-29T14:45:00Z",
+    "title": "Tesla supplier commentary highlights battery cost improvements",
+    "summary": "Component cost trends may support gradual margin stabilization if pricing pressure moderates.",
+    "source": "CNBC"
+  },
+  {
+    "ticker": "TSLA",
+    "published_at": "2026-03-23T08:45:00Z",
+    "title": "Tesla cuts prices again in key markets",
+    "summary": "Tesla announced another round of price cuts in Europe and China, reigniting concerns about EV demand and margin pressure.",
+    "source": "Reuters"
+  },
+  {
+    "ticker": "TSLA",
+    "published_at": "2026-03-21T15:20:00Z",
+    "title": "Tesla pushes full self-driving update to wider fleet",
+    "summary": "The company expanded access to its latest full self-driving beta, calling it a major step toward autonomous capability, though regulators remain cautious.",
+    "source": "Yahoo Finance"
+  },
+  {
+    "ticker": "TSLA",
+    "published_at": "2026-03-05T12:25:00Z",
+    "title": "Tesla margin outlook debated as EV competition intensifies",
+    "summary": "Analysts split on whether pricing actions are temporary or indicate a longer normalization in EV profitability.",
+    "source": "MarketWatch"
+  },
+  {
+    "ticker": "TSLA",
+    "published_at": "2026-02-06T09:15:00Z",
+    "title": "Tesla autonomy roadmap update keeps long-term optionality in focus",
+    "summary": "Investors weighed near-term execution risk against potential long-term software monetization from autonomy.",
+    "source": "Bloomberg"
+  }
+]
+
