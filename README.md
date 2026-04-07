@@ -44,13 +44,22 @@ Reliability is scored as a simple rule-based proxy using source-type categories:
 This is intentionally interpretable and easy to explain in your video.
 
 ## How to Run
+Installation & Setup
+Follow these steps to run the Sentiment Analyzer locally:
+1. Prerequisites
+ - Ensure you have Python 3.9+ installed on your machine.
+ - You will also need a stable internet connection for the initial library installation and for pulling live market news.
+2. Clone the Repository
+ - Open your terminal and run the following commands to download the project and navigate into the directory:
+git clone https://github.com/jason-laatz/Project-2-sentiment.git
+cd Project-2-sentiment
+3. Install Dependencies
+   It is recommended to use a virtual environment.
+   Install the required libraries (Streamlit, Pandas, Plotly, yfinance, and VADER) using the provided requirements file:
+   pip install -r requirements.txt
+4. Launch the ApplicationStart the Streamlit server to open the app in your default web browser:
+   streamlit run app.py
 
-1. Open terminal in this folder:
-   - `cd project2_sentiment_analyzer`
-2. Install dependencies:
-   - `pip install -r requirements.txt`
-3. Run app:
-   - `streamlit run app.py`
 
 ## Project Documentation (Submission-Ready)
 
